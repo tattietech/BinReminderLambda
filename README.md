@@ -2,7 +2,7 @@
 
 > **⚠️ Project Status: Not Currently Maintained**
 >
-> This project is no longer live and is not currently being maintained. It may be put back into development in the future, but for now, it should be considered inactive.
+> This isn't currently in use so I have deactivated the infrastructure in the back end. I will probably reactivate and keep working on it, currently I have no wheely bins to be reminded about!
 
 ## About
 
